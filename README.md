@@ -48,4 +48,4 @@ This Excel-based dashboard transforms raw hospital data into *actionable insight
 
 ## DASHBOARD VIEWS
 
-![HOSPITALROOM]()
+![HOSPITALROOM](https://github.com/kaushikmanish34/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Dashboard%20Final%20.jpg)
